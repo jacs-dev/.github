@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.png" alt="JACS Organization" width="100%" />
+  <img src="../assets/banner.png" alt="JACS Organization" width="100%" />
   <br><br>
   <p><b>Engineering scalable B2B and SaaS platforms with a focus on cloud-native infrastructure, secure production-grade architectures, and AI-driven solutions.</b></p>
 </div>
